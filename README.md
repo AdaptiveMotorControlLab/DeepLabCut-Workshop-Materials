@@ -15,7 +15,7 @@
 
 
 
-# DeepLabCut 2020 Workshop Materials:
+# DeepLabCut Workshop Materials:
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/DeepLabCut/DeepLabCut
 
